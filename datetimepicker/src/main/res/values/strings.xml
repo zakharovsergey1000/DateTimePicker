@@ -42,6 +42,12 @@
      -->
     <string name="day_picker_description">Month grid of days</string>
     <!--
+        Content description for the month selector in the date picker, which displays
+        a selectable grid of months.
+        [CHAR LIMIT=50]
+     -->
+    <string name="month_picker_description">Months grid</string>
+    <!--
         Content description for the year selector in the date picker, which displays
         a scrolling, vertical list of years.
         [CHAR LIMIT=50]
@@ -49,6 +55,8 @@
     <string name="year_picker_description">Year list</string>
     <!-- Accessibility announcement for the day picker [CHAR LIMIT=NONE] -->
     <string name="select_day">Select month and day</string>
+    <!-- Accessibility announcement for the month picker [CHAR LIMIT=NONE] -->
+    <string name="select_month">Select month</string>
     <!-- Accessibility announcement for the year picker [CHAR LIMIT=NONE] -->
     <string name="select_year">Select year</string>
     <!-- Accessibility description for the item that is currently selected. -->

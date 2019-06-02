@@ -28,6 +28,8 @@ interface DatePickerController {
 
     void onYearSelected(int year);
 
+    void onMonthSelected(int month);
+
     void onDayOfMonthSelected(int year, int month, int day);
 
     void registerOnDateChangedListener(OnDateChangedListener listener);
