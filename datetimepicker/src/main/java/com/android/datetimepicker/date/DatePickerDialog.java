@@ -135,7 +135,7 @@ public class DatePickerDialog extends DialogFragment implements
      */
     public interface OnDateChangedListener {
 
-        public void onDateChanged();
+        void onDateChanged();
     }
 
 
